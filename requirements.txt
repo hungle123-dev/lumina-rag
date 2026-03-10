@@ -1,0 +1,26 @@
+# --- UI ---
+gradio
+
+# --- Document Processing ---
+llama-parse
+pypdf
+
+# --- Orchestration & Agents ---
+langchain
+langchain-community
+langchain-core
+langchain-classic
+langchain-text-splitters
+langgraph
+
+# --- LLM Providers ---
+langchain-openai
+
+# --- Vector Database & Retrieval ---
+chromadb
+rank-bm25
+
+# --- Utilities ---
+pydantic-settings
+loguru
+python-dotenv
