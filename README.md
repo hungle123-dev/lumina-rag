@@ -70,7 +70,7 @@
 
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/HaileyTQuach/docchat-docling.git lumina-rag
+git clone https://github.com/hungle123-dev/lumina-rag.git lumina-rag
 cd lumina-rag
 ```
 
@@ -118,18 +118,7 @@ Lumina RAG will be accessible at local address displayed in the terminal (e.g. `
 5️⃣ **If the question is out of scope or hallucinates**, Lumina will self-correct or inform you directly!  
 
 
-## 🤝 Contributing  
 
-Want to **improve Lumina RAG**? Feel free to:  
-
-- **Fork the repo**  
-- **Create a new branch** (`feature-xyz`)  
-- **Commit your changes**  
-- **Submit a PR (Pull Request)**  
-
-We welcome contributions from **AI/NLP enthusiasts, researchers, and developers!** 🚀  
-
----
 
 ## 📜 License  
 
@@ -139,4 +128,4 @@ This project is licensed under a Custom Non-Commercial License – check LICENSE
 
 ## 💬 Contact & Support  
 
-📧 **Email:** [hailey@haileyq.com]  
+📧 **Email:** [hunglecrkh2k5@gmail.com]  
