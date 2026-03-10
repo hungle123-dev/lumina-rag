@@ -1,7 +1,8 @@
 # **✨ Lumina RAG** 📝🤖  
 🚀 **An Agentic Multi-Agent RAG system for intelligent document querying with fact verification**  
 
-![Lumina RAG Cover Image](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/zSuj0yrlvjcVkkbW4frkNA/docchat-landing-page.png)
+![Lumina RAG Cover Image](assets/my-cover.png)
+
 
 ---
 
@@ -20,12 +21,6 @@
 
 ---
 
-## **🎥 Demo Video**  
-
-📹 **[Click here to watch the demo](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/zyARt3f3bnm5T-6C4AE3mw/docchat-demo.mp4)**  
-*(Opens in a new tab)*
-
----
 
 ## **🛠️ How Lumina RAG Works**  
 
